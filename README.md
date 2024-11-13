@@ -1,1 +1,2 @@
 # VISAMarketTrendForecast
+This project leverages advanced machine learning techniques to analyze and forecast market trends for VISA stock. Using historical price and volume data, I developed a predictive model with hyperparameter tuning through Grid Search to enhance trend prediction accuracy. The implementation includes a comprehensive data preprocessing pipeline and model evaluation, such as Decision Tree and Random Forest, ensuring reliable and precise outcomes. 

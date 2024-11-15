@@ -10,6 +10,7 @@ This project leverages simple machine learning techniques to analyze and forecas
 6. [Model Optimization](#model-optimization)
 7. [Evaluation](#evaluation)
 8. [Conclusion](#conclusion)
+9. [Usage](#usage)
 
 ---
 
@@ -139,15 +140,10 @@ Feel free to explore the code and extend the project!
 
 ---
 
-## How to Run
+## Usage
 1. Clone the repository.
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the notebook or script in your preferred environment.
 4. Check `images` folder for visualizations.
 
----
-
-## Contact
-
-For questions or suggestions, feel free to reach out via the project’s GitHub issues section.
 

@@ -125,12 +125,8 @@ grid_search.fit(train_copy, y_train)
 ## Evaluation
 
 ### Test Set Performance:
-The final model was evaluated on a test set, achieving a Root Mean Square Error (RMSE) of 0.426. This indicates strong predictive performance, making it suitable for identifying stock market trends.
+The final model was evaluated on a test set, achieving a Root Mean Square Error (RMSE) of **0.426**. This indicates strong predictive performance, making it suitable for identifying stock market trends.
 
-Visualization of feature importance showed that Volume and High-Low were the most influential features, confirming the effectiveness of feature engineering.
-
-### Visualization:
-![Feature Importance](images/feature_importance.png)
 
 ---
 

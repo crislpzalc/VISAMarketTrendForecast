@@ -45,7 +45,7 @@ df.head()
 ```
 
 ### Statistical Summary:
-![Histogram of Volume](images/hist_volume.png)
+![Histogram of Volume](images/Histogram_of_Volume.png)
 
 Insights:
 - **Volume** is highly skewed.
